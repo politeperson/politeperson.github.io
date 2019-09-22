@@ -1,1 +1,0 @@
-## Generador de carátulas UCSP
